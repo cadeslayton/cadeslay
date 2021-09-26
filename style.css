@@ -1,0 +1,38 @@
+html {
+   background-color:black;
+ }
+ 
+ .movie{
+   border-radius: 90px;
+   height: 500px;
+ }
+ 
+ 
+ .container{
+   margin-top:5px;
+   background-color: black;
+   color: white;
+   float:50% right;
+   font-family: 'Noto Serif', serif;
+   font-size: 35px;
+   padding: 150px;
+   border-radius:20px;
+   width:100%;
+   height:100%;
+   text-align: center;
+   font-style: italic;
+ }
+
+ .linkedin {
+   width: 300px;
+   height:auto;
+ }
+ .github {
+  width: 300px;
+  height:auto;
+}
+
+.propic{
+  width: 400px;
+  height: auto;
+}
